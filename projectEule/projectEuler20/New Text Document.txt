@@ -1,0 +1,1 @@
+sum of all digits in 100!
